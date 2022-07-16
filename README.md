@@ -2,3 +2,7 @@
 IOS 앱 제작 SWIFT프로그래밍 입문 (2022-07-06 ~ 2022-08-21)
 
 연락처 : kennysy@naver.com
+
+
+Zoom 연결 : 
+    https://us02web.zoom.us/j/6962261155?pwd=WWZsSDFQZ3ZsU2tndzg4Z0FybGZpUT09
